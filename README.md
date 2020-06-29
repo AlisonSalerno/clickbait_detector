@@ -29,15 +29,18 @@ Non-clickbait sources: NY Times, The Washington Post, The Guaridan, Bloomberg, T
 
 ## EDA 
 
-#### Target distribution
+### Target distribution
 ![](/images/classes.png)
-#### Most frequent words for each class.
+### Most frequent words for each class.
 ![](/images/clickbait_wc.png)
-![](/images/noncb_wc.png)
-#### Distribution & comparison of engineered features on each class.
+![](/images/noncb_wc2.png)
+### Distribution & comparison of engineered features on each class.
 ![](/images/num_words_comparison.png)
-![](/images/question.png)
-![](/images/startsnum.png)
+![](/images/numstart.png)
+![](/images/question2.png)
+
+
+## Models
 
 
 
