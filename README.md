@@ -36,9 +36,9 @@ Non-clickbait sources: NY Times, The Washington Post, The Guaridan, Bloomberg, T
 ![](/images/numstart.png)
 ![](/images/question2.png)
 ### Most frequent words for each class
-#### clickbait:
+Clickbait:  
 ![clickbait](/images/wc4.png)
-#### non-clickbait:
+<br/>Non-clickbait:  
 ![nonclickbait](/images/wc5.png)
 
 ## Models & Interpretations
@@ -84,3 +84,9 @@ By analyzing the coefficients of the models that performed the best, I was able 
 1. First, start with the cleaning&eda notebook under the 'workingnotebooks' folder - this compiles all relevant csvs (found in the data folder) and sets up the data for the project.  Feature engineering code is located here and processing for EDA is also found here.
 2. Second, the modeling notebook (in working notebooks) - the code here can be reproduced to further process the data for modeling and then creating/evaluating your classifiers.
 3. Third, the final_mvp notebook gives an overview of my whole process - this notebook can be used for a clear picture of the end to end process but areas like data cleaning are just explained in markdown so utilize the working notebooks for all details. 
+
+## Citations 
+
+Images in presentation: 
+
+Kaggle dataset: https://www.kaggle.com/amananandrai/clickbait-dataset
