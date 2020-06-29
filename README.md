@@ -42,16 +42,19 @@ Non-clickbait sources: NY Times, The Washington Post, The Guaridan, Bloomberg, T
 ![nonclickbait](/images/wc5.png)
 
 ## Models & Interpretations
+#### Baseline Dummy Classifier
+![](/images/dc_cm.png)
 #### Naive Bayes
 ![](/images/nb_cm.png)
 ![](/images/CB_coefs_nb.png)
 #### Logistic Regression 
+![](/images/lr_cm.png)
 ![](/images/noncb_lr_coeff.png)
 
 
 ## Conclusion
 
-I was able to use machine learning algorithms such as Naive Bayes, Logistic regression and SVM to accurately classify clickbait versus non-clickbait headlines. The results were quite good - within the 90-93% range for accuracy scores and 90-93% range for recall scores. I slightly prioritized recall as I figured that it would be more valuable to minimize false negatives (classifying clickbait as non-clickbait).
+I was able to use machine learning algorithms such as Naive Bayes, Logistic regression and SVM to accurately classify clickbait versus non-clickbait headlines. The results were quite good - within the 90-93% range for accuracy scores and 90-93% range for recall scores. I slightly prioritized recall as I figured that it would be more valuable to minimize false negatives (classifying clickbait as non-clickbait) and as such Naive Bayes performed the best.
 
 As machine learning was able to work so well, there is definitely a real world use case for deploying a machine learning solution to filter out / flag clickbait before a reader even has to visualize and discern the headline for themselves!
 
