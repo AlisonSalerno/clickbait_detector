@@ -22,19 +22,22 @@ Non-clickbait sources: NY Times, The Washington Post, The Guaridan, Bloomberg, T
 
 ## Process
 
-1. Gather Data.
-2. Clean and process data, including feature engineering.
-3. Explore data through EDA for initial insights and understanding.
-4. Model & Evaluate : train classifiers and evaluate test predictions.  Interpret model performance.
+1. Gather Data
+2. Clean and process data, including feature engineering
+3. Explore data through EDA for initial insights and understanding
+4. Model & Evaluate : train classifiers and evaluate test predictions, interpret model performance
 
 ## EDA 
 
-- Visualized word frequency for each class.
-- Visualized distribution of engineered features and their relevance on each class.
-- Target distribution
-
+#### Target distribution
 ![](/images/classes.png)
-
+#### Most frequent words for each class.
+![](/images/clickbait_wc.png)
+![](/images/noncb_wc.png)
+#### Distribution & comparison of engineered features on each class.
+![](/images/num_words_comparison.png)
+![](/images/question.png)
+![](/images/startsnum.png)
 
 
 
