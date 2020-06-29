@@ -62,11 +62,11 @@ By analyzing the coefficients of the models that performed the best, I was able 
 
 ## Next Steps/Future Improvement Ideas
 
-- explore Deep NLP and neural net models to see if they make a stronger classifier
-- set up a front end / app using Flask to predict on new headlines in a current day scenario
-- analyze topics and themes with LDA
-- possibly use LDA topics for modeling
-- test model on a new dataset
+- Explore Deep NLP and neural net models to see if they make a stronger classifier
+- Set up a front end / app using Flask to predict on new headlines in a current day scenario
+- Analyze topics and themes with LDA
+- Possibly use LDA topics for modeling
+- Test model on a new dataset
 
 ## Presentation link
 
