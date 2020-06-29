@@ -36,11 +36,17 @@ Non-clickbait sources: NY Times, The Washington Post, The Guaridan, Bloomberg, T
 ![](/images/numstart.png)
 ![](/images/question2.png)
 ### Most frequent words for each class
-![](/images/wc4.png)
-![](/images/wc5.png)
+#### clickbait:
+![clickbait](/images/wc4.png)
+#### non-clickbait:
+![nonclickbait](/images/wc5.png)
 
-## Models
-
+## Models & Interpretations
+#### Naive Bayes
+![](/images/nb_cm.png)
+![](/images/CB_coefs_nb.png)
+#### Logistic Regression 
+![](/images/noncb_lr_coeff.png)
 
 
 ## Conclusion
