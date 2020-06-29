@@ -1128,11 +1128,11 @@
     "plt.figure(figsize=(10,10), facecolor='k')\n",
     "plt.imshow(wordcloud, interpolation='bilinear')\n",
     "plt.axis(\"off\")\n",
-    "plt.tight_layout(pad=0)\n",
+    "plt.tight_layout()\n",
     "\n",
     "# Uncomment the next line if you want to save your image:\n",
     "\n",
-    "plt.savefig('clickbait_wc')\n",
+    "plt.savefig('clickbait_wc2')\n",
     "\n",
     "plt.show()"
    ]
