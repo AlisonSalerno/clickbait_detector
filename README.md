@@ -88,5 +88,9 @@ By analyzing the coefficients of the models that performed the best, I was able 
 ## Citations 
 
 Images in presentation: 
+1. https://www.pexels.com/photo/apps-blur-button-close-up-267350/
+2. https://www.pexels.com/photo/man-using-stylus-pen-for-touching-the-digital-tablet-screen-6335/
+
+Presentation template: https://slidesgo.com/theme/communication-consulting
 
 Kaggle dataset: https://www.kaggle.com/amananandrai/clickbait-dataset
