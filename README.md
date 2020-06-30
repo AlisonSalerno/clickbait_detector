@@ -18,7 +18,7 @@ This could be implemented on a larger scale - on social media/various websites, 
 
 Clickbait sources: Buzzfeed, Upworthy, ViralNova, BoredPanda, Thatscoop, Viralstories, PoliticalInsider, Examiner, TheOdyssey
 
-Non-clickbait sources: NY Times, The Washington Post, The Guaridan, Bloomberg, The Hindu, WikiNews, Reuters
+Non-clickbait sources: NY Times, The Washington Post, The Guardian, Bloomberg, The Hindu, WikiNews, Reuters
 
 ## Process
 
