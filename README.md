@@ -90,6 +90,7 @@ By analyzing the coefficients of the models that performed the best, I was able 
 Images in presentation: 
 1. https://www.pexels.com/photo/apps-blur-button-close-up-267350/
 2. https://www.pexels.com/photo/man-using-stylus-pen-for-touching-the-digital-tablet-screen-6335/
+3. https://pixabay.com/photos/business-the-next-step-next-success-4241792/
 
 Presentation template: https://slidesgo.com/theme/communication-consulting
 
