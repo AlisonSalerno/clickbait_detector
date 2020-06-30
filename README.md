@@ -70,6 +70,8 @@ By analyzing the coefficients of the models that performed the best, I was able 
 
 ## Presentation link
 
+https://docs.google.com/presentation/d/1OLc9f0INK_8cnux7x-3zEWhNj-yzoPzuyv6d0b1Frk0/edit?usp=sharing
+
 
 ## Repository Navigation 
 
