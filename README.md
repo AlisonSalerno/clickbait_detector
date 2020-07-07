@@ -78,6 +78,7 @@ https://docs.google.com/presentation/d/1OLc9f0INK_8cnux7x-3zEWhNj-yzoPzuyv6d0b1F
 2. Working Notebooks folder - scraping & api requests, cleaning & eda , modeling, front end / streamlit code
 3. Final_mvp.ipynb - final notebook showcasing the end to end project.
 4. README - end to end project report, reproduction instructions, repository navigation, link to presentation, sources.
+5. app.py,pkls,setup.sh,requirements.txt,procfile - app files
 
 
 ## Reproduction Instructions
@@ -85,6 +86,10 @@ https://docs.google.com/presentation/d/1OLc9f0INK_8cnux7x-3zEWhNj-yzoPzuyv6d0b1F
 1. First, start with the cleaning&eda notebook under the 'workingnotebooks' folder - this compiles all relevant csvs (found in the data folder) and sets up the data for the project.  Feature engineering code is located here and processing for EDA is also found here.
 2. Second, the modeling notebook (in working notebooks) - the code here can be reproduced to further process the data for modeling and then creating/evaluating your classifiers.
 3. Third, the final_mvp notebook gives an overview of my whole process - this notebook can be used for a clear picture of the end to end process but areas like data cleaning are just explained in markdown so utilize the working notebooks for all details. 
+
+## Demo & App: 
+
+Try the deployed version on heroku: https://cb-detector.herokuapp.com/
 
 ## Citations 
 
