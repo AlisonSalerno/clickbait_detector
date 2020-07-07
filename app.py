@@ -4,6 +4,8 @@ import numpy as np
 import pickle
 from pickle import load
 from scipy import sparse
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
