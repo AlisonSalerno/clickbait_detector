@@ -88,8 +88,12 @@ if st.button('Submit'):
     vectorized = vectorizer.transform(input)
     final = sparse.hstack([question,exclamation,starts_with_num,headline_words,vectorized])
     result = model.predict(final)
-    st.balloons()
+
     if result == 1:
-        st.success('This headline is clickbait')
+        st.error('This headline is clickbait')
     else:
-        st.success('This is not Clickbait, click on!')
+        st.success('This is not clickbait, click on!')
+        st.balloons()
+from PIL import Image
+image = Image.open('electronics-1851218_640.jpg')
+st.image(image, width = 660, caption = 'Source: https://cdn.pixabay.com/photo/2016/11/22/23/40/electronics-1851218_960_720.jpg' )
