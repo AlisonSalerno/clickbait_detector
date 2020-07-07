@@ -3,6 +3,7 @@ echo "\
 [general]\n\
 email = \"salernoali@gmail.com\"\n\
 " > ~/.streamlit/credentials.toml
+
 echo "\
 [server]\n\
 headless = true\n\
