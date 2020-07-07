@@ -63,7 +63,6 @@ By analyzing the coefficients of the models that performed the best, I was able 
 ## Next Steps/Future Improvement Ideas
 
 - Explore Deep NLP and neural net models to see if they make a stronger classifier
-- Set up a front end / app using Flask to predict on new headlines in a current day scenario
 - Analyze topics and themes with LDA
 - Possibly use LDA topics for modeling
 - Test model on a new dataset
@@ -76,7 +75,7 @@ https://docs.google.com/presentation/d/1OLc9f0INK_8cnux7x-3zEWhNj-yzoPzuyv6d0b1F
 ## Repository Navigation 
 
 1. Data folder - all relevant csv files
-2. Working Notebooks folder - scraping & api requests, cleaning & eda , modeling
+2. Working Notebooks folder - scraping & api requests, cleaning & eda , modeling, front end / streamlit code
 3. Final_mvp.ipynb - final notebook showcasing the end to end project.
 4. README - end to end project report, reproduction instructions, repository navigation, link to presentation, sources.
 
@@ -97,3 +96,5 @@ Images in presentation:
 Presentation template: https://slidesgo.com/theme/communication-consulting
 
 Kaggle dataset: https://www.kaggle.com/amananandrai/clickbait-dataset
+
+Streamlit reference : https://docs.streamlit.io/en/stable/api.html
