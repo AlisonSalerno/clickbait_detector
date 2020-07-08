@@ -67,6 +67,10 @@ By analyzing the coefficients of the models that performed the best, I was able 
 - Possibly use LDA topics for modeling
 - Test model on a new dataset
 
+## Demo & App: 
+
+Try the deployed version on heroku: https://cb-detector.herokuapp.com/
+
 ## Presentation link
 
 https://docs.google.com/presentation/d/1OLc9f0INK_8cnux7x-3zEWhNj-yzoPzuyv6d0b1Frk0/edit?usp=sharing
@@ -87,9 +91,6 @@ https://docs.google.com/presentation/d/1OLc9f0INK_8cnux7x-3zEWhNj-yzoPzuyv6d0b1F
 2. Second, the modeling notebook (in working notebooks) - the code here can be reproduced to further process the data for modeling and then creating/evaluating your classifiers.
 3. Third, the final_mvp notebook gives an overview of my whole process - this notebook can be used for a clear picture of the end to end process but areas like data cleaning are just explained in markdown so utilize the working notebooks for all details. 
 
-## Demo & App: 
-
-Try the deployed version on heroku: https://cb-detector.herokuapp.com/
 
 ## Citations 
 
