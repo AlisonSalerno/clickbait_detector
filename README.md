@@ -71,6 +71,9 @@ By analyzing the coefficients of the models that performed the best, I was able 
 
 Try the deployed version on heroku: https://cb-detector.herokuapp.com/
 
+![](demo.gif)
+
+
 ## Presentation link
 
 https://docs.google.com/presentation/d/1OLc9f0INK_8cnux7x-3zEWhNj-yzoPzuyv6d0b1Frk0/edit?usp=sharing
