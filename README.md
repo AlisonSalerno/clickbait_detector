@@ -67,7 +67,7 @@ By analyzing the coefficients of the models that performed the best, I was able 
 - Possibly use LDA topics for modeling
 - Test model on a new dataset
 
-## Demo & App: 
+## Demo & App
 
 Try the deployed version on heroku: https://cb-detector.herokuapp.com/
 
