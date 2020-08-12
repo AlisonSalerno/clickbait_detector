@@ -2,7 +2,7 @@
 
 Through NLP and text classification, this project aims to classify a headline as clickbait or non-clickbait.  
 
-Clickbait refers to an article headline whose purpose is to use sensationalist language to lure in a viewer to click through to a certain webpage. That webpage typically generates ad revenue on the user's clicks or monitizes the user's activity data. The clickbait article itself is not written with journalistic integrity, research or really any deeper or practical meaning - it is simply a vehicle to grab clicks and activity.
+Clickbait refers to an article headline whose purpose is to use sensationalist language to lure in a viewer to click through to a certain webpage. That webpage typically generates ad revenue on the user's clicks or monetizes the user's activity data. The clickbait article itself is not written with journalistic integrity, research or really any deeper or practical meaning - it is simply a vehicle to grab clicks and activity.
 
 With the explosion of social media, smartphones and so many people connected to the internet daily, there is no shortage of ‘information' and online objects vying for our attention, but all are not equal. The ease of sharing and reposting on social media has allowed clutter like clickbait to run wild. And the often profitable nature of publishing and capitalizing on clickbait has also given way to the increase in clickbait.
 
