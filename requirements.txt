@@ -4,4 +4,3 @@ streamlit==0.60.0
 scipy==1.4.1
 nltk==3.4.5
 scikit-learn==0.23.1
-python==3.11.1
